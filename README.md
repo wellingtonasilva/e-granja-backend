@@ -2,7 +2,8 @@
 Software para Controle Avícola (Produção de Ovos)
 
 Aplicação voltada para Fábrica de Ovos.
-Esta aplicação possui as seguintes funcionalidades:
+
+#### Esta aplicação possui as seguintes funcionalidades:
 
 * Lote de Produção
 * Fábrica de Ração
@@ -12,7 +13,7 @@ Esta aplicação possui as seguintes funcionalidades:
 * Ovos Produzidos
 * Controle de Mortalidade
 
-##### Solução está divida em 3 módulos:
+#### Solução está divida em 3 módulos:
 * Backend - toda lógica de negócio estará disponível nesse módulo
 * Frontend - aplicação WEB
 * Mobile - aplicação mobile que permitirá informar produção diária a partir do Galpão 
