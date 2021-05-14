@@ -14,6 +14,6 @@ Aplicação voltada para Fábrica de Ovos.
 * Controle de Mortalidade
 
 #### Solução está divida em 3 módulos:
-* Backend - toda lógica de negócio estará disponível nesse módulo
-* Frontend - aplicação WEB
-* Mobile - aplicação mobile que permitirá informar produção diária a partir do Galpão 
+* **Backend** - toda lógica de negócio estará disponível nesse módulo
+* **Frontend** - aplicação WEB
+* **Mobile** - aplicação mobile que permitirá informar produção diária a partir do Galpão 
